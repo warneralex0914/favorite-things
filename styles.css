@@ -1,15 +1,21 @@
 h1 {
-  color: #00f;
+  color: red;
   text-align: center;
+  font-size: 50px;
+  font-family: Comic sans-serif;
 }
 
 h2 {
+  color: blue;
   font-style: italic;
   text-align: center;
+  font-weight: heavy; 
 }
+
 
 p {
   font-family: sans-serif;
+  line-height: 0in;
 }
 
 ul {
